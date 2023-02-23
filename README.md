@@ -25,6 +25,6 @@ By running below command you can install above tools:
 > choco install kubernetes-cli
 
 5] Git clone this repo.
-git clone 
+git clone https://github.com/gauravkhedekar/k8s_coaching.git
 
 6] run "vagrant up" in the folder where we have this cloned repo. It should create 1 master and 2 worker node for you.
