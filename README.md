@@ -18,11 +18,11 @@ https://www.virtualbox.org/wiki/Download_Old_Builds_6_1
 4] Install mobaxterm, k9s, cygwin, vagrant, kubernetes-cli using "choco install", using admin previledge.
 
 By running below command you can install above tools:
-> choco install mobaxterm
-> choco install k9s
-> choco install cygwin
-> choco install vagrant 
-> choco install kubernetes-cli
+# choco install mobaxterm
+# choco install k9s
+# choco install cygwin
+# choco install vagrant 
+# choco install kubernetes-cli
 
 5] Git clone this repo.
 git clone https://github.com/gauravkhedekar/k8s_coaching.git
