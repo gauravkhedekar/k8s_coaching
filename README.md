@@ -32,10 +32,10 @@ git clone https://github.com/gauravkhedekar/k8s_coaching.git
 6] After that please run "vagrant up" in the folder where we have this cloned repo/where you can see Vagrantfile. It should create 1 master and 2 worker node for you.
 
 7] You can go ahead and get ssh session from mobaxterm/putty/cmd/gitbash to the servers
-  master - 172.16.16.100 
- slaves 1- 172.16.16.101 
- slave 2 -  172.16.16.102
+ - master - 172.16.16.100 
+ - slaves 1- 172.16.16.101 
+ - slave 2 -  172.16.16.102
  
 For all servers:
-Username: vagrant
-Password: vagrant
+- Username: vagrant
+- Password: vagrant
