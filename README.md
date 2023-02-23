@@ -27,4 +27,6 @@ By running below command you can install above tools:
 5] Git clone this repo.
 git clone https://github.com/gauravkhedekar/k8s_coaching.git
 
-6] run "vagrant up" in the folder where we have this cloned repo. It should create 1 master and 2 worker node for you.
+5.1] Please keep  virtualbox app open in the background running. Please disable/pause antivirus.
+
+6] After that please run "vagrant up" in the folder where we have this cloned repo/where you can see Vagrantfile. It should create 1 master and 2 worker node for you.
