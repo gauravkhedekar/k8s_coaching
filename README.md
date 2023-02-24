@@ -39,3 +39,7 @@ git clone https://github.com/gauravkhedekar/k8s_coaching.git
 For all servers:
 - Username: vagrant
 - Password: vagrant
+
+
+After ssh into kmaster/master, become root using "sudo -i"
+And run "cp /etc/kubernetes/admin.conf ~/.kube/config"
